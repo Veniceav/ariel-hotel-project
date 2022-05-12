@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ariel-hotel-project/static/css/main.e0eee4e3.css",
+    "main.js": "/ariel-hotel-project/static/js/main.80d4f0ed.js",
+    "static/js/377.27a9c8f5.chunk.js": "/ariel-hotel-project/static/js/377.27a9c8f5.chunk.js",
+    "static/media/boomMic.jpg": "/ariel-hotel-project/static/media/boomMic.cb461b475256f7ac1156.jpg",
+    "static/media/BwWoodenCamera.png": "/ariel-hotel-project/static/media/BwWoodenCamera.fc6377ebfde118c9c1b2.png",
+    "static/media/cameraLeft.png": "/ariel-hotel-project/static/media/cameraLeft.b2dfe5fa16020bf75f29.png",
+    "static/media/cameraZoomed.png": "/ariel-hotel-project/static/media/cameraZoomed.4448b19a7c9ab86fc5db.png",
+    "static/media/cameraRight.png": "/ariel-hotel-project/static/media/cameraRight.9c30088f9a58bf6f55b0.png",
+    "static/media/maschine.jpg": "/ariel-hotel-project/static/media/maschine.5ea71b7ebf0717bd5074.jpg",
+    "static/media/guitarFocus.jpg": "/ariel-hotel-project/static/media/guitarFocus.e2c0976ea585c2f31eb5.jpg",
+    "static/media/setSpace.jpg": "/ariel-hotel-project/static/media/setSpace.24e0136eb105d665b47b.jpg",
+    "static/media/shuremic.jpg": "/ariel-hotel-project/static/media/shuremic.5a598271f2f684235055.jpg",
+    "index.html": "/ariel-hotel-project/index.html",
+    "main.e0eee4e3.css.map": "/ariel-hotel-project/static/css/main.e0eee4e3.css.map",
+    "main.80d4f0ed.js.map": "/ariel-hotel-project/static/js/main.80d4f0ed.js.map",
+    "377.27a9c8f5.chunk.js.map": "/ariel-hotel-project/static/js/377.27a9c8f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0eee4e3.css",
+    "static/js/main.80d4f0ed.js"
+  ]
+}
